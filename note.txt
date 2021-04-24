@@ -10,3 +10,10 @@ Now our work will continue locally
 2. committed the change to local repo
 3. we want this change to be reflected in remote repository so We PUSHED local commites to remote repository using push origin button 
 4. Observe it has been added in your repository under GitHub.com
+
+gkg;lkgl;gk;l
+
+
+How to save after adding some text in sublime
+On Mac Command + S
+ON Windows Control + S
