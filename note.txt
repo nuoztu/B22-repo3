@@ -19,3 +19,6 @@ On Mac Command + S
 ON Windows Control + S
 
 we do not have to push one commit at a time
+
+you can push multuple commits at once
+there is no limit
