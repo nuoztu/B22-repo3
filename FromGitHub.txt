@@ -1,1 +1,3 @@
 This is the file I added from GitHub.com to my remote repository directly 
+
+this is some changes to this file
