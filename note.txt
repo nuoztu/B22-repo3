@@ -17,3 +17,5 @@ gkg;lkgl;gk;l
 How to save after adding some text in sublime
 On Mac Command + S
 ON Windows Control + S
+
+we do not have to push one commit at a time
